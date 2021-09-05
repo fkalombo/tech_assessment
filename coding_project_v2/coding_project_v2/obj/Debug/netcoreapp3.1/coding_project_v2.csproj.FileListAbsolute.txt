@@ -1,0 +1,17 @@
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\bin\Debug\netcoreapp3.1\coding_project_v2.exe
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\bin\Debug\netcoreapp3.1\coding_project_v2.deps.json
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\bin\Debug\netcoreapp3.1\coding_project_v2.runtimeconfig.json
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\bin\Debug\netcoreapp3.1\coding_project_v2.runtimeconfig.dev.json
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\bin\Debug\netcoreapp3.1\coding_project_v2.dll
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\bin\Debug\netcoreapp3.1\coding_project_v2.pdb
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\obj\Debug\netcoreapp3.1\coding_project_v2.csprojAssemblyReference.cache
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\obj\Debug\netcoreapp3.1\coding_project_v2.AssemblyInfoInputs.cache
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\obj\Debug\netcoreapp3.1\coding_project_v2.AssemblyInfo.cs
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\obj\Debug\netcoreapp3.1\coding_project_v2.dll
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\obj\Debug\netcoreapp3.1\coding_project_v2.pdb
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\obj\Debug\netcoreapp3.1\coding_project_v2.genruntimeconfig.cache
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\obj\Debug\netcoreapp3.1\coding_project_v2.csproj.CoreCompileInputs.cache
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\obj\Debug\netcoreapp3.1\coding_project_v2.csproj.CopyComplete
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\bin\Debug\netcoreapp3.1\basic_endpoints.json
+C:\Users\bfkal\source\repos\coding_project_v2\coding_project_v2\bin\Debug\netcoreapp3.1\bonus_endpoints.json

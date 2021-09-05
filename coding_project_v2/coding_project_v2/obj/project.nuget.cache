@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5waRv1ggePe6JJ325MBOSb495/Dmme65W1Ly/W0o6vwfgzGMmuGbflQvTGqAR5dO1l15wKzNK4cnv3KNETG3zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bfkal\\source\\repos\\coding_project_v2\\coding_project_v2\\coding_project_v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bfkal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
